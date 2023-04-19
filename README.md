@@ -1,4 +1,4 @@
-# CHECK THE LIVE VERSION!!
+# Check the Live version!!
 
 https://responsive-website-react.vercel.app/
 
